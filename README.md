@@ -1,5 +1,5 @@
-Raw version is in main folder. If you want to run code there are many ways.
-
-with Visual Studio Code:
-Download https://github.com/educ8s/Raylib-CPP-Starter-Template-for-VSCODE folder and add the
-folders in main folder to this folder.
+run with Visual Studio Code:
+  Download https://github.com/educ8s/Raylib-CPP-Starter-Template-for-VSCODE folder.
+  Add src and assets folder to this folder. Add ground.png to assets and add Carai.h,
+  main.cpp to src. Open main.code-workspace and debug with F5.
+Conclusion similar as preview.png
